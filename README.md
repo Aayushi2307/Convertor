@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/Aayushi2307/Convertor">
-    <img src="logo.png" alt="Logo" width="120" height="120">
+    <img src="convertor_logo.png" alt="Logo" width="120" height="120">
   </a>
 
   <h3 align="center">Convertor</h3>
